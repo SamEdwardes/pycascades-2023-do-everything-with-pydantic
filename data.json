@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Bruce Willis",
+            "year_of_birth": "2019",
+            "books": [
+                {
+                    "title": "My First book",
+                    "publisher": "Big Books",
+                    "year": 2020
+                }
+            ]
+        },
+        {
+            "name": "Bruce Willis",
+            "year_of_birth": 2019,
+            "books": [
+                {
+                    "title": "My First book",
+                    "publisher": "Big Books",
+                    "year": 2020
+                }
+            ]
+        }
+    ]
+}
